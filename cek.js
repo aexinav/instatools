@@ -218,7 +218,7 @@ console.log(chalk`
   [?] {bold.green Comment, DM & Like}
   [?] {bold.green Gunakan komen.txt untk komen!}
   
-  ——————————————————  [THANKS TO]  ————————————————————
+  ——————————————————  [THANKS TO AEXINAV]  ————————————————————
   [✓] CODER BY AEXINAV (https://fb.me/aexinav)
   [✓] FIXING & TESTING BY AEXINAV
   [✓] TOOLS AMAN 1000000% NO LOGGER
