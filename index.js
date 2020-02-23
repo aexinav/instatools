@@ -40,7 +40,7 @@ const questionTools = [
         
       case "[3] Hapus Semua Postingan":
         const hapussemuapostingan = require('./hapussemuapostingan.js');
-        await hapusssemuapostingan();
+        await hapussemuapostingan();
         break;
       default:
         console.log('\nERROR:\n[?] Aw, Snap! \n[!] Something went wrong while displaying this program!\n[!] Please try again!');
